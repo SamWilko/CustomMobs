@@ -1,0 +1,10 @@
+#
+# CustomMobs Plugin
+#
+
+CustomMobs:
+
+Prefix: ""
+Version: 1
+Log_Lag_Over_Milis: 100
+Debug: []
